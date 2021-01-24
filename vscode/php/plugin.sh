@@ -10,6 +10,9 @@ pkglist=(
     msjsdiag.debugger-for-chrome
     felixfbecker.php-debug
     neilbrayfield.php-docblocker
+    CoenraadS.bracket-pair-colorizer-2
+    formulahendry.auto-close-tag
+    formulahendry.auto-rename-tag
 )
 
 for var in ${pkglist[@]}

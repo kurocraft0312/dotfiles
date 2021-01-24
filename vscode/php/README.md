@@ -76,6 +76,24 @@ URL: https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docbl
 
 Effect: 「PHPdoc」というPHPでどういう処理（どういうリクエストとレスポンスが取り交わされているか？/どういう型を利用しているのか？など）が書かれているのかを簡略化して記載するコメントエリアを自動で発行します。
 
+◯CoenraadS.bracket-pair-colorizer-2（Bracket Pair Colorizer 2）
+
+URL: https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
+
+Effect: 処理ごとに開始・終了の中括弧を識別化しやすく色分けします。
+
+◯formulahendry.auto-close-tag（Auto Close Tag）
+
+URL: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
+
+Effect: HTMLの開始タグを発行したタイミングで閉じタグを自動発行してくれます。Emmetが機能しなくなったときの代替手段としても使えます。
+
+◯formulahendry.auto-rename-tag（Auto Rename Tag）
+
+URL: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+
+Effect: HTMLの開始タグまたは終了タグを書きかえたタイミングで、編集内容をもう片方（開始タグまたは終了タグ）に適用します。
+
 ---
 
 ## 更新
