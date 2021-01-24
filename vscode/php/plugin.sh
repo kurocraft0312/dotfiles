@@ -10,6 +10,7 @@ pkglist=(
     wayou.vscode-todo-highlight
     formulahendry.auto-close-tag
     formulahendry.auto-rename-tag
+    bmewburn.vscode-intelephense-client
     msjsdiag.debugger-for-chrome
     felixfbecker.php-debug
     ms-vscode-remote.remote-wsl

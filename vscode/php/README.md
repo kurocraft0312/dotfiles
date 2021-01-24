@@ -72,6 +72,15 @@ Effect: HTMLの開始タグまたは終了タグを書きかえたタイミン�
 
 ---
 
+### PHP系
+◯bmewburn.vscode-intelephense-client（PHP Intelephense）
+
+URL: https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client
+
+Effect: PHPの引数や戻り値などを推測して引き出してくれる入力補完機能を搭載しています。
+
+---
+
 ### JSデバッグ系
 ◯msjsdiag.debugger-for-chrome（Debugger for Chrome）
 
