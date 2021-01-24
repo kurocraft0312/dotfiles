@@ -15,7 +15,7 @@ PHPプロジェクト用のVS Codeプラグイン/パッケージリストです
 
 ---
 
-## 内容物[識別子（プラグイン名）/URLの順/効果]
+## 内容物[識別子（プラグイン名）/URL/効果]
 
 ### 言語系
 ◯MS-CEINTL.vscode-language-pack-ja（Japanese Language Pack for Visual Studio Code）
