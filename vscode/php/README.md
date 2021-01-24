@@ -19,6 +19,12 @@ Effect: VS Codeの操作画面を日本語化できます。
 ---
 
 ### UI系
+◯mariorodeghiero.vue-theme（Vue Theme）
+
+URL: https://marketplace.visualstudio.com/items?itemName=mariorodeghiero.vue-theme
+
+Effect: Vue.jsをモチーフにしたVS Code用のテーマ。緑色で目に優しいテーマです。
+
 ◯vscode-icons-team.vscode-icons（vscode-icons）
 
 URL: https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
@@ -51,6 +57,21 @@ Effect: 「TODO:」で進行中のタスク、「FIXME:」を先頭につけて�
 
 ---
 
+### HTML系
+◯formulahendry.auto-close-tag（Auto Close Tag）
+
+URL: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
+
+Effect: HTMLの開始タグを発行したタイミングで閉じタグを自動発行してくれます。Emmetが機能しなくなったときの代替手段としても使えます。
+
+◯formulahendry.auto-rename-tag（Auto Rename Tag）
+
+URL: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+
+Effect: HTMLの開始タグまたは終了タグを書きかえたタイミングで、編集内容をもう片方（開始タグまたは終了タグ）に適用します。
+
+---
+
 ### JSデバッグ系
 ◯msjsdiag.debugger-for-chrome（Debugger for Chrome）
 
@@ -69,6 +90,15 @@ Effect: PHPのデバッグが可能です。具体的にどうデバッグでき
 
 ---
 
+### Linux系
+◯ms-vscode-remote.remote-wsl（Remote - WSL）
+
+URL: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
+
+Effect: WSLモード（Linuxコマンドを使える状態）でVS Codeプロジェクトを開くことが出来ます。
+
+---
+
 ### その他
 ◯neilbrayfield.php-docblocker（PHP DocBlocker）
 
@@ -76,23 +106,17 @@ URL: https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docbl
 
 Effect: 「PHPdoc」というPHPでどういう処理（どういうリクエストとレスポンスが取り交わされているか？/どういう型を利用しているのか？など）が書かれているのかを簡略化して記載するコメントエリアを自動で発行します。
 
+◯mikestead.dotenv（DotENV）
+
+URL: https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv
+
+Effect: .envファイルのコードにシンタックスハイライト（処理ごとに識別化しやすく色分けする機能）を施します。
+
 ◯CoenraadS.bracket-pair-colorizer-2（Bracket Pair Colorizer 2）
 
 URL: https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
 
 Effect: 処理ごとに開始・終了の中括弧を識別化しやすく色分けします。
-
-◯formulahendry.auto-close-tag（Auto Close Tag）
-
-URL: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
-
-Effect: HTMLの開始タグを発行したタイミングで閉じタグを自動発行してくれます。Emmetが機能しなくなったときの代替手段としても使えます。
-
-◯formulahendry.auto-rename-tag（Auto Rename Tag）
-
-URL: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
-
-Effect: HTMLの開始タグまたは終了タグを書きかえたタイミングで、編集内容をもう片方（開始タグまたは終了タグ）に適用します。
 
 ---
 

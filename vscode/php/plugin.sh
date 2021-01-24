@@ -3,16 +3,19 @@
 # VS Code :: Plugin/Package list
 pkglist=(
     MS-CEINTL.vscode-language-pack-ja
+    mariorodeghiero.vue-theme
     vscode-icons-team.vscode-icons
-    wayou.vscode-todo-highlight
     jebbs.plantuml
     humao.rest-client
-    msjsdiag.debugger-for-chrome
-    felixfbecker.php-debug
-    neilbrayfield.php-docblocker
-    CoenraadS.bracket-pair-colorizer-2
+    wayou.vscode-todo-highlight
     formulahendry.auto-close-tag
     formulahendry.auto-rename-tag
+    msjsdiag.debugger-for-chrome
+    felixfbecker.php-debug
+    ms-vscode-remote.remote-wsl
+    neilbrayfield.php-docblocker
+    mikestead.dotenv
+    CoenraadS.bracket-pair-colorizer-2
 )
 
 for var in ${pkglist[@]}
