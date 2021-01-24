@@ -33,6 +33,8 @@ URL: https://marketplace.visualstudio.com/items?itemName=mariorodeghiero.vue-the
 
 Effect: Vue.jsをモチーフにしたVS Code用のテーマ。緑色で目に優しいテーマです。
 
+--
+
 ◯vscode-icons-team.vscode-icons（vscode-icons）
 
 URL: https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
@@ -47,6 +49,8 @@ Effect: VS Code上のファイル名にアイコンを付与して、ファイ�
 URL: https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml
 
 Effect: classのような大規模かつ複雑な処理を組む際に使われる図式（UML図）をVS Code上で作成できるようにします。
+
+--
 
 ◯humao.rest-client（REST Client）
 
@@ -71,6 +75,8 @@ Effect: 「TODO:」で進行中のタスク、「FIXME:」を先頭につけて�
 URL: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
 
 Effect: HTMLの開始タグを発行したタイミングで閉じタグを自動発行してくれます。Emmetが機能しなくなったときの代替手段としても使えます。
+
+--
 
 ◯formulahendry.auto-rename-tag（Auto Rename Tag）
 
@@ -132,17 +138,23 @@ URL: https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docbl
 
 Effect: 「PHPdoc」というPHPでどういう処理（どういうリクエストとレスポンスが取り交わされているか？/どういう型を利用しているのか？など）が書かれているのかを簡略化して記載するコメントエリアを自動で発行します。
 
+--
+
 ◯mikestead.dotenv（DotENV）
 
 URL: https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv
 
 Effect: .envファイルのコードにシンタックスハイライト（処理ごとに識別化しやすく色分けする機能）を施します。
 
+--
+
 ◯CoenraadS.bracket-pair-colorizer-2（Bracket Pair Colorizer 2）
 
 URL: https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
 
 Effect: 処理ごとに開始・終了の中括弧を識別化しやすく色分けします。
+
+--
 
 ◯esbenp.prettier-vscode（Prettier - Code formatter）
 
