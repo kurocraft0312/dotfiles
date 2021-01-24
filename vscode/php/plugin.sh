@@ -14,9 +14,11 @@ pkglist=(
     msjsdiag.debugger-for-chrome
     felixfbecker.php-debug
     ms-vscode-remote.remote-wsl
+    eamodio.gitlens
     neilbrayfield.php-docblocker
     mikestead.dotenv
     CoenraadS.bracket-pair-colorizer-2
+    esbenp.prettier-vscode
 )
 
 for var in ${pkglist[@]}

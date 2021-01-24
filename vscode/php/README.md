@@ -5,6 +5,14 @@ PHPプロジェクト用のVS Codeプラグイン/パッケージリストです
 
 ## 使い方
 
+下記コマンドを指定のプロジェクトのコマンドラインで打ち込んでください。すると、下記のプラグインリストが一括でインストールされます。
+
+``
+
+./plugin.sh
+
+``
+
 ---
 
 ## 内容物[識別子（プラグイン名）/URLの順/効果]
@@ -108,6 +116,15 @@ Effect: WSLモード（Linuxコマンドを使える状態）でVS Codeプロジ
 
 ---
 
+### Git系
+◯eamodio.gitlens（GitLens — Git supercharged）
+
+URL: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+
+Effect: Gitステータスやpushまでの流れを視覚的に見たい・チェックしたいときに使います。
+
+---
+
 ### その他
 ◯neilbrayfield.php-docblocker（PHP DocBlocker）
 
@@ -126,6 +143,12 @@ Effect: .envファイルのコードにシンタックスハイライト（処�
 URL: https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
 
 Effect: 処理ごとに開始・終了の中括弧を識別化しやすく色分けします。
+
+◯esbenp.prettier-vscode（Prettier - Code formatter）
+
+URL: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+Effect: HTML/CSS/JSなどフロントエンド系のコードのインデント整形用に使われます。
 
 ---
 
