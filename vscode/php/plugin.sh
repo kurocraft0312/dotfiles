@@ -5,6 +5,8 @@ pkglist=(
     MS-CEINTL.vscode-language-pack-ja
     vscode-icons-team.vscode-icons
     wayou.vscode-todo-highlight
+    jebbs.plantuml
+    humao.rest-client
     msjsdiag.debugger-for-chrome
     felixfbecker.php-debug
     neilbrayfield.php-docblocker
